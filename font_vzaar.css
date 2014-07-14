@@ -1,0 +1,342 @@
+@font-face {
+	font-family: 'vzaar-font';
+	src:url('/vzaar-font.eot?-4wunbi');
+	src:url('/vzaar-font.eot?#iefix-4wunbi') format('embedded-opentype'),
+		url('/vzaar-font.woff?-4wunbi') format('woff'),
+		url('/vzaar-font.ttf?-4wunbi') format('truetype'),
+		url('/vzaar-font.svg?-4wunbi#vzaar-font') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="vzaar-icon-"], [class*=" vzaar-icon-"] {
+	font-family: 'vzaar-font';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.vzaar-icon-back:before {
+	content: "\e64c";
+}
+
+.vzaar-icon-chat:before {
+	content: "\e61a";
+}
+.vzaar-icon-eeuu:before {
+	content: "\e61b";
+}
+.vzaar-icon-uk:before {
+	content: "\e61c";
+}
+.vzaar-icon-hand-recommend:before {
+	content: "\e61d";
+}
+.vzaar-icon-hand-click:before {
+	content: "\e61e";
+}
+.vzaar-icon-upload:before {
+	content: "\e61f";
+}
+.vzaar-icon-support:before {
+	content: "\e620";
+}
+.vzaar-icon-lock:before {
+	content: "\e621";
+}
+.vzaar-icon-domain-control:before {
+	content: "\e622";
+}
+.vzaar-icon-https:before {
+	content: "\e623";
+}
+.vzaar-icon-rtmpe:before {
+	content: "\e624";
+}
+.vzaar-icon-multi-user:before {
+	content: "\e625";
+}
+.vzaar-icon-mobile:before {
+	content: "\e626";
+}
+.vzaar-icon-archive-2:before {
+	content: "\e627";
+}
+.vzaar-icon-cdn:before {
+	content: "\e628";
+}
+.vzaar-icon-dual-encoding:before {
+	content: "\e629";
+}
+.vzaar-icon-subtitles-thin:before {
+	content: "\e62a";
+}
+.vzaar-icon-html5:before {
+	content: "\e62b";
+}
+.vzaar-icon-fla:before {
+	content: "\e62c";
+}
+.vzaar-icon-js:before {
+	content: "\e62d";
+}
+.vzaar-icon-mpeg4:before {
+	content: "\e62e";
+}
+.vzaar-icon-affordable:before {
+	content: "\e62f";
+}
+.vzaar-icon-upload-2:before {
+	content: "\e630";
+}
+.vzaar-icon-interactive:before {
+	content: "\e631";
+}
+.vzaar-icon-replace:before {
+	content: "\e632";
+}
+.vzaar-icon-youtube:before {
+	content: "\e633";
+}
+.vzaar-icon-seo:before {
+	content: "\e634";
+}
+.vzaar-icon-branding:before {
+	content: "\e635";
+}
+.vzaar-icon-playlist:before {
+	content: "\e636";
+}
+.vzaar-icon-vzaar-fill:before {
+	content: "\e637";
+}
+.vzaar-icon-vzaar:before {
+	content: "\e638";
+}
+.vzaar-icon-vzaar-logo:before {
+	content: "\e639";
+}
+.vzaar-icon-spinner_plain:before {
+	content: "\e60f";
+}
+.vzaar-icon-paint:before {
+	content: "\e610";
+}
+.vzaar-icon-tools:before {
+	content: "\e611";
+}
+.vzaar-icon-phone:before {
+	content: "\e612";
+}
+.vzaar-icon-devices:before {
+	content: "\e613";
+}
+.vzaar-icon-question_2:before {
+	content: "\e614";
+}
+.vzaar-icon-question:before {
+	content: "\e615";
+}
+.vzaar-icon-time:before {
+	content: "\e616";
+}
+.vzaar-icon-plays:before {
+	content: "\e617";
+}
+.vzaar-icon-uniF000:before {
+	content: "\f000";
+}
+.vzaar-icon-spinner:before {
+	content: "\e000";
+}
+.vzaar-icon-play:before {
+	content: "\e001";
+}
+.vzaar-icon-pause:before {
+	content: "\e002";
+}
+.vzaar-icon-replay:before {
+	content: "\e003";
+}
+.vzaar-icon-volume:before {
+	content: "\e004";
+}
+.vzaar-icon-hd:before {
+	content: "\e005";
+}
+.vzaar-icon-gear:before {
+	content: "\e006";
+}
+.vzaar-icon-full_screen:before {
+	content: "\e007";
+}
+.vzaar-icon-small_screen:before {
+	content: "\e008";
+}
+.vzaar-icon-share:before {
+	content: "\e009";
+}
+.vzaar-icon-subtitles:before {
+	content: "\e00a";
+}
+.vzaar-icon-remove_2:before {
+	content: "\e00b";
+}
+.vzaar-icon-remove:before {
+	content: "\e00c";
+}
+.vzaar-icon-plus:before {
+	content: "\e00d";
+}
+.vzaar-icon-link:before {
+	content: "\e00e";
+}
+.vzaar-icon-encode:before {
+	content: "\e00f";
+}
+.vzaar-icon-facebook:before {
+	content: "\e010";
+}
+.vzaar-icon-twitter:before {
+	content: "\e011";
+}
+.vzaar-icon-send:before {
+	content: "\f110";
+}
+.vzaar-icon-download:before {
+	content: "\e012";
+}
+.vzaar-icon-stop:before {
+	content: "\e013";
+}
+.vzaar-icon-volume_2:before {
+	content: "\e015";
+}
+.vzaar-icon-volume_3:before {
+	content: "\e016";
+}
+.vzaar-icon-volume_4:before {
+	content: "\e017";
+}
+.vzaar-icon-volume_5:before {
+	content: "\e018";
+}
+.vzaar-icon-volume_1:before {
+	content: "\e014";
+}
+.vzaar-icon-tie:before {
+	content: "\e600";
+}
+.vzaar-icon-speaker:before {
+	content: "\e601";
+}
+.vzaar-icon-shopping:before {
+	content: "\e602";
+}
+.vzaar-icon-scissors:before {
+	content: "\e603";
+}
+.vzaar-icon-quote_start:before {
+	content: "\e604";
+}
+.vzaar-icon-quote_end:before {
+	content: "\e605";
+}
+.vzaar-icon-publication:before {
+	content: "\e606";
+}
+.vzaar-icon-play_2:before {
+	content: "\e607";
+}
+.vzaar-icon-items:before {
+	content: "\e608";
+}
+.vzaar-icon-globe:before {
+	content: "\e609";
+}
+.vzaar-icon-clapper:before {
+	content: "\e60a";
+}
+.vzaar-icon-case:before {
+	content: "\e60b";
+}
+.vzaar-icon-camera:before {
+	content: "\e60c";
+}
+.vzaar-icon-bulb:before {
+	content: "\e60d";
+}
+.vzaar-icon-setup:before {
+	content: "\e646";
+}
+.vzaar-icon-archive:before {
+	content: "\e60e";
+}
+.vzaar-icon-switch:before {
+	content: "\e647";
+}
+.vzaar-icon-social-share:before {
+	content: "\e642";
+}
+.vzaar-icon-user:before {
+	content: "\e648";
+}
+.vzaar-icon-encode-2:before {
+	content: "\e649";
+}
+.vzaar-icon-download-2:before {
+	content: "\e64a";
+}
+.vzaar-icon-arrow-up:before {
+	content: "\e64b";
+}
+.vzaar-icon-phone-circle:before {
+	content: "\e619";
+}
+.vzaar-icon-panda:before {
+	content: "\e645";
+}
+.vzaar-icon-bear:before {
+	content: "\e643";
+}
+.vzaar-icon-branch:before {
+	content: "\e644";
+}
+.vzaar-icon-point:before {
+	content: "\e63a";
+}
+.vzaar-icon-end-screen:before {
+	content: "\e63b";
+}
+.vzaar-icon-loupe:before {
+	content: "\e63c";
+}
+.vzaar-icon-analytics:before {
+	content: "\e63d";
+}
+.vzaar-icon-apple:before {
+	content: "\e63e";
+}
+.vzaar-icon-mobile-2:before {
+	content: "\e63f";
+}
+.vzaar-icon-mailchimp:before {
+	content: "\e640";
+}
+.vzaar-icon-map:before {
+	content: "\e641";
+}
+.vzaar-icon-send-thin:before {
+	content: "\e618";
+}
+
+.hiddenButton {
+  display: none;
+}
